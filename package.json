@@ -1,5 +1,5 @@
 {
-  "name": "andysproxy",
+  "name": "ryans proxy",
   "version": "1.0.0",
   "description": "a proxy server to gather all the services for the BRAC retail model",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/RAJE-tech/AndysProxy.git"
   },
-  "author": "andy seracuse",
+  "author": "Ryan Weaver",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RAJE-tech/AndysProxy/issues"
