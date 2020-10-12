@@ -1,16 +1,17 @@
 {
-  "name": "ryans proxy",
+  "name": "andysproxy",
   "version": "1.0.0",
   "description": "a proxy server to gather all the services for the BRAC retail model",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RAJE-tech/AndysProxy.git"
   },
-  "author": "Ryan Weaver",
+  "author": "andy seracuse",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RAJE-tech/AndysProxy/issues"
